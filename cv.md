@@ -4,6 +4,7 @@
 *******
 
 ## Contact information:
-*******
+
 **E-mail**: elem15ten@gmail.com
+
 **Telegram**: @elem_15
