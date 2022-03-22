@@ -1,2 +1,2 @@
 # rsschool-cv
-https://elem15.github.io/rsschool-cv/cv.md
+https://elem15.github.io/rsschool-cv/
